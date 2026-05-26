@@ -78,4 +78,15 @@ This project uses the [OpenWeatherMap API](https://openweathermap.org/api). The 
 
 ## 📄 License
 
-MIT — free to use, modify, and distribute.
+MIT — No free to use, or  modify.
+
+
+
+## 👤 Author
+
+**Fayas Fais**
+- GitHub: [@fayasfais](https://github.com/fayasfais)
+- LinkedIn: [fayas-fais-8bb84630a](https://linkedin.com/in/fayas-fais-8bb84630a)
+- Email: fayasfais44@gmail.com
+
+---
